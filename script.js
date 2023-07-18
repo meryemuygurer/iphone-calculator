@@ -71,6 +71,7 @@ document.querySelector(".equal").addEventListener('click', function(){
   } else if (temporalOperator == document.querySelector(".times")){
     document.querySelector(".calculator-input").value = Number(temporalNumber) * Number(document.querySelector(".calculator-input").value)
   } 
+  /* dawdadad */
   
 })
 
